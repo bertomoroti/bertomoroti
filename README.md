@@ -15,4 +15,6 @@
   </a>
 </p>
 
-<img align ="right" alt="berto" scrc="https://media.tenor.com/qV7Q2h_2oM0AAAAC/bunny-cute.gif">
+<img width="95" height="95" alt="bunny-cute" src="https://github.com/user-attachments/assets/b4c0073f-9448-4f5a-ba45-d7fcb73db7ee" />
+
+
